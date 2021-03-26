@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Vinícius Mioto! 👋
 
-<!--
-**viniciusmioto/viniciusmioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Information Technology technician at [IFPR](https://colombo.ifpr.edu.br/) <br>
+💻 BSc in Computer Science at [UFPR](https://www.ufpr.br/portalufpr/) <br>
+🇧🇷 Curitiba, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 I'm a researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Website](https://viniciusmioto.github.io/portfolio/) <br>
+🐦 [Twitter](https://twitter.com/vinemioto) <br>
+📸 [Instagram](https://www.instagram.com/vinemioto/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145?trk=people-guest_people_search-card) <br>

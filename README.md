@@ -10,7 +10,7 @@
 
 ### Find me elsewhere 🌎
 
-🚀 [Website](https://viniciusmioto.github.io/portfolio/) <br>
+🚀 [Website](https://mioto.netlify.app/) <br>
 🐦 [Twitter](https://twitter.com/vinemioto) <br>
 📸 [Instagram](https://www.instagram.com/vinemioto/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145?trk=people-guest_people_search-card) <br>

@@ -1,6 +1,6 @@
 ### Hey, I'm Vinícius Mioto! 👋
 
-🧑‍💻 Information Technology technician at [IFPR](https://colombo.ifpr.edu.br/) <br>
+🧑‍💻 Informatics at [IFPR](https://colombo.ifpr.edu.br/) <br>
 💻 BSc in Computer Science at [UFPR](https://www.ufpr.br/portalufpr/) <br>
 🇧🇷 Curitiba, Brazil <br>
 

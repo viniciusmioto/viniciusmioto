@@ -1,7 +1,7 @@
 ### Hey, I'm Vinícius Mioto! 👋
 
-🧑‍💻 Informatics at [IFPR](https://colombo.ifpr.edu.br/) <br>
-💻 BSc in Computer Science at [UFPR](https://www.ufpr.br/portalufpr/) <br>
+🧑‍💻 Informatics at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
+💻 BSc in Computer Science at [Federal University of Paraná](https://www.ufpr.br/portalufpr/) <br>
 🇧🇷 Curitiba, Brazil <br>
 
 ### What I'm working on 👨‍💻
@@ -11,6 +11,6 @@
 ### Find me elsewhere 🌎
 
 🚀 [Website](https://mioto.netlify.app/) <br>
-🐦 [Twitter](https://twitter.com/vinemioto) <br>
-📸 [Instagram](https://www.instagram.com/vinemioto/) <br>
+🐦 [Twitter](https://twitter.com/vsmioto) <br>
+📸 [Instagram](https://www.instagram.com/vsmioto/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145?trk=people-guest_people_search-card) <br>

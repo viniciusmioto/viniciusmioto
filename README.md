@@ -6,11 +6,11 @@
 
 ### What I'm working on 👨‍💻
 
-🔎 I'm a researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
+🔎 I'm a undergrad researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
 
 ### Find me elsewhere 🌎
 
 🚀 [Website](https://mioto.netlify.app/) <br>
-🐦 [Twitter](https://twitter.com/vsmioto) <br>
-📸 [Instagram](https://www.instagram.com/vsmioto/) <br>
+🐦 [Twitter](https://twitter.com/viniciusmioto_) <br>
+📸 [Instagram](https://www.instagram.com/viniciusmioto_) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145?trk=people-guest_people_search-card) <br>

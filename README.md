@@ -1,10 +1,10 @@
-### Hey, I'm Vinícius Mioto! 👋
+### Hey, I'm Vinícius Mioto!
 
 🧩 Informatics at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
 💻 BSc in Computer Science at [Federal University of Paraná](https://www.ufpr.br/portalufpr/) <br>
 🇧🇷 Curitiba, Brazil <br>
 
-### What I'm working on 👨‍💻
+### What I'm working on
 
 🔎 Undergrad researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
 🐤 Volunteer at [Enactus - UFPR](http://www.enactus.org.br/) <br>
@@ -18,9 +18,11 @@
   <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 </div>
   
-  ### Find me elsewhere 🌎
-  
-🚀 [Website](https://mioto.netlify.app/) <br>
-🐦 [Twitter](https://twitter.com/viniciusmioto_) <br>
-📸 [Instagram](https://www.instagram.com/viniciusmioto_) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145?trk=people-guest_people_search-card) <br>
+  ### Find me elsewhere
+ 
+
+   <a href="https://twitter.com/viniciusmioto_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/viniciusmioto_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   

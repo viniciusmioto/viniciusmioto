@@ -12,15 +12,22 @@
  <div>
   <a href="https://github.com/viniciusmioto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmioto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<div style="display: inline_block"><br>
+   
+### Favorite Languages 
+<div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ### Find me elsewhere
+### Favorite Frameworks & Libraries 
+<div style="display: inline_block">
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>   
+   
+ ### Find me elsewhere
 
    <a href="https://instagram.com/viniciusmioto_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://linkedin.com/in/viniciusmioto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
    

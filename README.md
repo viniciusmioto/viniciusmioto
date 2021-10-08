@@ -13,7 +13,7 @@
   <a href="https://github.com/viniciusmioto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmioto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
-### Favorite Languages 
+<!-- ### Favorite Languages 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -24,7 +24,14 @@
 <div style="display: inline_block">
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>   
+</div>    -->
+   
+### Interests 
+   * Artificial Intelligence
+   * Machine Learning
+   * Data Science
+   * Mobile and Web Applications
+   
    
  ### Find me elsewhere
 

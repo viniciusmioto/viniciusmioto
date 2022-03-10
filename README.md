@@ -6,8 +6,8 @@
 
 ### What I'm working on
 
+⚙️ Data Engineering Intern at [FUPEF](https://fupef.org.br/) <br>
 🔎 Undergrad researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
-🐤 Volunteer at [Enactus - UFPR](http://www.enactus.org.br/) <br>
 
  <div>
   <a href="https://github.com/viniciusmioto">

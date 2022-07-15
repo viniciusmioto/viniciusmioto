@@ -8,10 +8,6 @@
 
 ⚙️ Data Engineering Intern at [FUPEF](https://fupef.org.br/) <br>
 🔎 Undergrad researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
-
- <div>
-  <a href="https://github.com/viniciusmioto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmioto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
 <!-- ### Favorite Languages 
 <div style="display: inline_block">

@@ -7,7 +7,6 @@
 ### What I'm working on
 
 ⚙️ Data Engineering Intern at [FUPEF](https://fupef.org.br/) <br>
-🔎 Undergrad researcher at [PET Computação - UFPR](https://web.inf.ufpr.br/pet/) <br>
    
 <!-- ### Favorite Languages 
 <div style="display: inline_block">

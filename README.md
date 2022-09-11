@@ -2,11 +2,8 @@
 
 🧩 Informatics at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
 💻 BSc in Computer Science at [Federal University of Paraná](https://www.ufpr.br/portalufpr/) <br>
-🇧🇷 Curitiba, Brazil <br>
-
-### What I'm working on
-
 ⚙️ Data Engineering Intern at [FUPEF](https://fupef.org.br/) <br>
+🇧🇷 Curitiba, Brazil <br>
    
 <!-- ### Favorite Languages 
 <div style="display: inline_block">

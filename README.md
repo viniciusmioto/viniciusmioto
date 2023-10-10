@@ -21,7 +21,7 @@
    * Artificial Intelligence
    * Machine Learning
    * Data Science
-   * Computer Vision
+   * Neural Networks
    
    
  ### Find me elsewhere

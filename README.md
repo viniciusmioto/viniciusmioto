@@ -19,8 +19,8 @@
    
 ### Interests 
    * Artificial Intelligence
-   * Machine Learning
    * Data Science
+   * Machine Learning
    * Neural Networks
    
    

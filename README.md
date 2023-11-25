@@ -1,5 +1,4 @@
 ### Hey, I'm Vinícius Mioto!
-
 🧩 Informatics at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
 💻 BSc in Computer Science at [Federal University of Paraná](https://www.ufpr.br/portalufpr/) <br>
 🇧🇷 Curitiba, Brazil <br>
@@ -18,14 +17,10 @@
 </div>    -->
    
 ### Interests 
-   * Artificial Intelligence
-   * Data Science
-   * Machine Learning
-   * Neural Networks
+👨🏻‍💻 Artificial Intelligence, Data Science, Machine Learning & Neural Networks
    
    
  ### Find me elsewhere
-
 [Website](https://www.inf.ufpr.br/vm20/)
 
    <a href="https://instagram.com/vsmioto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

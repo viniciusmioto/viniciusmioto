@@ -1,7 +1,9 @@
 ### Hey, I'm Vinícius Mioto!
-🧩 Informatics at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
-💻 BSc in Computer Science at [Federal University of Paraná](https://www.ufpr.br/portalufpr/) <br>
+🧩 Informatics at [Instituto Federal do Paraná](https://colombo.ifpr.edu.br/) <br>
+💻 BSc in Computer Science at [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/) <br>
+🌐 Mitacs Globalink GRI at [École de Technologie Supérieure](https://www.etsmtl.ca/) <br> 
 🇧🇷 Curitiba, Brazil <br>
+🇨🇦 Montreal, Canada <br>
    
 <!-- ### Favorite Languages 
 <div style="display: inline_block">

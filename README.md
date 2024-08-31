@@ -19,7 +19,7 @@
 </div>    -->
    
 ### Interests 
-👨🏻‍💻 Artificial Intelligence, Data Science, Machine Learning & Neural Networks
+👨🏻‍💻 Artificial Intelligence, Data Science & Social Networks
    
    
  ### Find me elsewhere

@@ -18,7 +18,7 @@
 </div>    -->
    
 ### Interests 
-👨🏻‍💻 Artificial Intelligence, Data Science & Social Networks
+👨🏻‍💻 Artificial Intelligence, Data Science & Complex Networks
    
    
  ### Find me elsewhere

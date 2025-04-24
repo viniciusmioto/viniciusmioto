@@ -1,7 +1,8 @@
 ### Hey, I'm Vinícius Mioto!
-🧩 Informatics at [Instituto Federal do Paraná](https://colombo.ifpr.edu.br/) <br>
+
 💻 BSc in Computer Science at [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/) <br>
-🌐 Mitacs Globalink GRI at [École de Technologie Supérieure](https://www.etsmtl.ca/) <br> 
+🇨🇦 Mitacs Globalink GRI 2024 at [École de Technologie Supérieure](https://www.etsmtl.ca/) <br> 
+🧩 Informatics at [Instituto Federal do Paraná](https://colombo.ifpr.edu.br/) <br>
 🇧🇷 Curitiba, Brazil <br>
    
 <!-- ### Favorite Languages 
@@ -18,7 +19,7 @@
 </div>    -->
    
 ### Interests 
-👨🏻‍💻 Artificial Intelligence, Data Science & Complex Networks
+👨🏻‍💻 Artificial Intelligence, Data Science, Machine Learning & Network Science
    
    
  ### Find me elsewhere
